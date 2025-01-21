@@ -1,0 +1,23 @@
+{
+  "name": "travel_planner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "debug": "^4.4.0",
+    "follow-redirects": "^1.15.9",
+    "lucide-react": "^0.473.0",
+    "next": "^15.1.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "supports-color": "^10.0.0"
+  }
+}
